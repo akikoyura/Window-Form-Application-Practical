@@ -1,0 +1,20 @@
+C:\Users\hmaik\Source\Repos\Bài Thực Hành 1\Bài Số 1\Bài Số 1\bin\Debug\Bài Số 1.exe.config
+C:\Users\hmaik\Source\Repos\Bài Thực Hành 1\Bài Số 1\Bài Số 1\bin\Debug\Bài Số 1.exe
+C:\Users\hmaik\Source\Repos\Bài Thực Hành 1\Bài Số 1\Bài Số 1\bin\Debug\Bài Số 1.pdb
+C:\Users\hmaik\Source\Repos\Bài Thực Hành 1\Bài Số 1\Bài Số 1\obj\Debug\Bài Số 1.csprojResolveAssemblyReference.cache
+C:\Users\hmaik\Source\Repos\Bài Thực Hành 1\Bài Số 1\Bài Số 1\obj\Debug\Bài_Số_1.Form1.resources
+C:\Users\hmaik\Source\Repos\Bài Thực Hành 1\Bài Số 1\Bài Số 1\obj\Debug\Bài_Số_1.Properties.Resources.resources
+C:\Users\hmaik\Source\Repos\Bài Thực Hành 1\Bài Số 1\Bài Số 1\obj\Debug\Bài Số 1.csproj.GenerateResource.cache
+C:\Users\hmaik\Source\Repos\Bài Thực Hành 1\Bài Số 1\Bài Số 1\obj\Debug\Bài Số 1.csproj.CoreCompileInputs.cache
+C:\Users\hmaik\Source\Repos\Bài Thực Hành 1\Bài Số 1\Bài Số 1\obj\Debug\Bài Số 1.exe
+C:\Users\hmaik\Source\Repos\Bài Thực Hành 1\Bài Số 1\Bài Số 1\obj\Debug\Bài Số 1.pdb
+C:\Users\hmaik\Source\Repos\Window Form Application TDMU\Bài Thực Hành 1\Bài Số 1\Bài Số 1\bin\Debug\Bài Số 1.exe.config
+C:\Users\hmaik\Source\Repos\Window Form Application TDMU\Bài Thực Hành 1\Bài Số 1\Bài Số 1\bin\Debug\Bài Số 1.exe
+C:\Users\hmaik\Source\Repos\Window Form Application TDMU\Bài Thực Hành 1\Bài Số 1\Bài Số 1\bin\Debug\Bài Số 1.pdb
+C:\Users\hmaik\Source\Repos\Window Form Application TDMU\Bài Thực Hành 1\Bài Số 1\Bài Số 1\obj\Debug\Bài Số 1.csprojResolveAssemblyReference.cache
+C:\Users\hmaik\Source\Repos\Window Form Application TDMU\Bài Thực Hành 1\Bài Số 1\Bài Số 1\obj\Debug\Bài_Số_1.Form1.resources
+C:\Users\hmaik\Source\Repos\Window Form Application TDMU\Bài Thực Hành 1\Bài Số 1\Bài Số 1\obj\Debug\Bài_Số_1.Properties.Resources.resources
+C:\Users\hmaik\Source\Repos\Window Form Application TDMU\Bài Thực Hành 1\Bài Số 1\Bài Số 1\obj\Debug\Bài Số 1.csproj.GenerateResource.cache
+C:\Users\hmaik\Source\Repos\Window Form Application TDMU\Bài Thực Hành 1\Bài Số 1\Bài Số 1\obj\Debug\Bài Số 1.csproj.CoreCompileInputs.cache
+C:\Users\hmaik\Source\Repos\Window Form Application TDMU\Bài Thực Hành 1\Bài Số 1\Bài Số 1\obj\Debug\Bài Số 1.exe
+C:\Users\hmaik\Source\Repos\Window Form Application TDMU\Bài Thực Hành 1\Bài Số 1\Bài Số 1\obj\Debug\Bài Số 1.pdb

@@ -68,24 +68,19 @@ namespace Bài_2
 
         private void BoldCheckBox_CheckedChanged(object sender, EventArgs e)
         {
-            ShowTextBox.Font = new Font(ShowTextBox.Font.Name,
-                ShowTextBox.Font.Size,
-                ShowTextBox.Font.Style ^ FontStyle.Bold);
+           
+            ShowTextBox.Font = new Font(FontListBox.SelectedItem.ToString(), ShowTextBox.Font.Size,FontStyle.Bold);
         }
 
         private void UnderlineCheckBox_CheckedChanged(object sender, EventArgs e)
         {
-            ShowTextBox.Font = new Font(ShowTextBox.Font.Name,
-               ShowTextBox.Font.Size,
-               ShowTextBox.Font.Style ^ FontStyle.Underline);
+            ShowTextBox.Font = new Font(FontListBox.SelectedItem.ToString(), ShowTextBox.Font.Size,FontStyle.Underline);
         }
 
         private void ItalicCheckBox_CheckedChanged(object sender, EventArgs e)
         {
-            ShowTextBox.Font = new Font(ShowTextBox.Font.Name,
-               ShowTextBox.Font.Size,
-               ShowTextBox.Font.Style ^ FontStyle.Italic);
-        }
+            ShowTextBox.Font = new Font(FontListBox.SelectedItem.ToString(), ShowTextBox.Font.Size,FontStyle.Italic);
+         }
 
         private void FontListBox_SelectedIndexChanged(object sender, EventArgs e)
         {

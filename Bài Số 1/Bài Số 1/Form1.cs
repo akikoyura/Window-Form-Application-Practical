@@ -58,6 +58,16 @@ namespace Bài_Số_1
                 MessageBox.Show(msg, this.Text);
                 return;
             }
+ 
+            while(KetQuaListBox.Items.Count !=0)
+            {
+                if (KetQuaListBox.Items.ToString().Contains(GiaoVienListBox.Items.ToString()))
+                {
+                    var msg = "Can not add item into listbox ! because it's exist!";
+                    MessageBox.Show(msg, this.Text);
+                    return;
+                }
+            }
             KetQuaListBox.Items.Add("Giáo Viên " + GiaoVienListBox.Text + " Chủ Nhiệm Lớp" + LopListBox.Text);
         }
     }

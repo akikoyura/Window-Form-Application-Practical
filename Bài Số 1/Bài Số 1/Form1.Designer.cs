@@ -36,6 +36,8 @@
             // 
             // GiaoVienListBox
             // 
+            this.GiaoVienListBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left)));
             this.GiaoVienListBox.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.GiaoVienListBox.FormattingEnabled = true;
             this.GiaoVienListBox.ItemHeight = 21;
@@ -46,6 +48,8 @@
             // 
             // LopListBox
             // 
+            this.LopListBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left)));
             this.LopListBox.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LopListBox.FormattingEnabled = true;
             this.LopListBox.ItemHeight = 21;
@@ -56,6 +60,8 @@
             // 
             // KetQuaListBox
             // 
+            this.KetQuaListBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left)));
             this.KetQuaListBox.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.KetQuaListBox.FormattingEnabled = true;
             this.KetQuaListBox.ItemHeight = 21;
@@ -66,8 +72,9 @@
             // 
             // ChuyenButton
             // 
+            this.ChuyenButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.ChuyenButton.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ChuyenButton.Location = new System.Drawing.Point(287, 303);
+            this.ChuyenButton.Location = new System.Drawing.Point(370, 303);
             this.ChuyenButton.Name = "ChuyenButton";
             this.ChuyenButton.Size = new System.Drawing.Size(104, 35);
             this.ChuyenButton.TabIndex = 3;
@@ -79,7 +86,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(893, 362);
+            this.ClientSize = new System.Drawing.Size(880, 371);
             this.Controls.Add(this.ChuyenButton);
             this.Controls.Add(this.KetQuaListBox);
             this.Controls.Add(this.LopListBox);
